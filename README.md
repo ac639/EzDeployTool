@@ -15,8 +15,7 @@ Feature list (WIP not all have been implemented):
 - Set a "deployment" folder for 'prod' machines to automatically unpack bundles (quick web server deployment)
 - Perform all communication through Kafka because why not?
 - Hardcode or live set one or more multiple dev/qa/prod machines
-- TBD
-
+- *Docker Support (FOR EVEN QUICKER DEPLOYMENT ON NEW SYSTEMS)
 
 ## Requirements
 
