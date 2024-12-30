@@ -5,7 +5,7 @@ This was made to provide some speedup in daily development. While it is not a ve
 
 This may or may not be of any use to you. I made this to fit my specific needs. 
 I wanted a way to write code/develop on one system (Windows) and package a snapshot of my code on to a server (Linux) and automatically deploy that code on the same or other machine for further development or production. 
-I also implemented Apache Kafa for robust messaging, this would allow you in theory to have separate machines for Kafka, the MySQL server, as well as several dev, qa, and prod machines
+I also implemented Apache Kafka for robust messaging, this allows you to have separate machines for Kafka, the MySQL server, as well as several dev, qa, and prod machines
 
 Feature list (WIP not all have been implemented):
 - Command line tool with arg support for multiple features
